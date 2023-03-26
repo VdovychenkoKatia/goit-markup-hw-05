@@ -562,6 +562,7 @@ button {
 
 .footer-container {
   max-width: 264px;
+  margin-right: 120px;
 }
 
 .footer-inner {
@@ -576,10 +577,6 @@ button {
   letter-spacing: 0.02em;
   color: var(--white-color);
   margin-bottom: 16px;
-}
-
-.footer-icons-container {
-  margin-left: 120px;
 }
 
 .footer-link {
