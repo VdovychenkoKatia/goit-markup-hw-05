@@ -552,11 +552,9 @@ button {
   border-color: var(--hover-color);
   color: var(--hover-color);
 }
-
-.customers-icons {
+.customers-icon {
   fill: var(--customers-border);
 }
-
 .customers-link:hover .customers-icon,
 .customers-link:focus .customers-icon {
   fill: var(--hover-color);
