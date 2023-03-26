@@ -174,7 +174,7 @@ button {
   animation-name: currentanimation;
   animation-duration: 250ms;
   animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  animation-delay: 0;
+  animation-delay: 0ms;
 }
 
 .current {
